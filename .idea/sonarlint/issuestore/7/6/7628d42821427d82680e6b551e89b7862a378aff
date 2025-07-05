@@ -1,0 +1,12 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âêÿÓ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŞšÜúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ò¥òŞüÿÿÿÿ
+b
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(ÂîÆ“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÜà„
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™ğÊáûÿÿÿÿ
+V	java:S125%"<This block of commented-out lines of code should be removed.(™†èğıÿÿÿÿ

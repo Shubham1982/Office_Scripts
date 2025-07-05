@@ -1,0 +1,12 @@
+
+0
+java:S1220""Move this file to a named package.
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(™ÊÉ«ùÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Ø˜¡Êúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ø‡žýÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(ïÓ—ž
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(»‚Û„ýÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(˜ýŠÓýÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Ü ‡¥úÿÿÿÿ
