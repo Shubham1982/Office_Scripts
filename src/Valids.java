@@ -6,12 +6,12 @@ import java.util.Set;
 
 public class Valids {
     public static void main(String[] args) {
-        String toBeChecked = "Tebuconazole 15%";
+        String toBeChecked = "Chlorpyriphos 20% EC";
         String[] toBeCheckedValues = toBeChecked.split(",");
         List<String> toBeCheckedList = Arrays.asList(toBeCheckedValues);
         Set<String> validationValuesSet = new HashSet<>();
 
-        validationValuesSet.add("Tebuconazole 15%");
+        validationValuesSet.add("Chlorpyriphos 20% EC");
         boolean value = validationValuesSet.containsAll(toBeCheckedList);
         System.out.println(value);
 

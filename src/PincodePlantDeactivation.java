@@ -8,7 +8,7 @@ import java.util.HashSet;
 
 public class PincodePlantDeactivation {
     public static void main(String[] args) {
-        String excelFilePath = "/home/lt-444/Downloads/Pincodes deactivation_KA_Kalburgi&Bellary.xlsx - Sheet1.csv";
+        String excelFilePath = "/home/lt-444/Downloads/Ruchi 22 Dec.csv";
 
         try (BufferedReader br = new BufferedReader(new FileReader(excelFilePath))) {
             // Skip the first line (header)

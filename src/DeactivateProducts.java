@@ -5,7 +5,7 @@ public class DeactivateProducts {
 
     public static void main(String[] args) {
         String line = "";
-        String path = "/home/lt-444/Downloads/Products_commission_mismatch (1).xlsx - Sheet1.csv";
+        String path = "/home/lt-444/Downloads/Products_commission_mismatch (23).csv";
         try {
             int i = 0;
             BufferedReader br = new BufferedReader(new FileReader(path));
